@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>valmol.samples.camel</groupId>
-  <artifactId>camel-standalone-basic</artifactId>
+  <artifactId>camel-standalone-main</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
 
